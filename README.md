@@ -44,10 +44,8 @@ Parts needed beside the assembled pcbs:
 - 8 m2 screws
 
 ### firmware
-firmware configs for qmk and vial can be found in the [firmware folder](./firmware).
-
 The first time the pcb is plugged in, the bootloader will provide a drive to upload the firmware file. 
-You may either build the firmware yourself or use the provided vial firmware files [here](./firmware/uf2). You can use VIAL ([download](https://get.vial.today/) to program your board after that, without need to build a new firmware.
+You may either build the firmware yourself or use the provided vial firmware files [here](./firmware). You may use VIAL ([download](https://get.vial.today/) to program your board after that, without need to build a new firmware.
 
 ### the rest
 
