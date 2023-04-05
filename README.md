@@ -2,7 +2,7 @@
 
 48 key orthogonal keyboard with offset bottom row
 
-![top](img/chonkyKong_top.jpg)
+![top](img/chonkyKong_top.png)
 
 ## Features
 
